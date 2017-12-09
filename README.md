@@ -15,3 +15,7 @@
   * tokens
 * UX/UI
 * platform
+
+## TODO
+* find, explore, read material
+* implement a first version with basic functionalities (and dummy game)
