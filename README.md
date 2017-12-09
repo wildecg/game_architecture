@@ -5,10 +5,11 @@
   * fairness
   * security
   * efficiency
+  * on/off chain
 * card game mechanics
   * actual game
   * abilities/card text formatting
-* ledger for 
+* distributed ledger
   * results
   * tournaments
   * tokens
