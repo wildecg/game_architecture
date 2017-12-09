@@ -17,5 +17,5 @@
 * platform
 
 ## TODO
-* find, explore, read material
-* implement a first version with basic functionalities (and dummy game)
+1. find, explore, read material
+2. implement a first version with basic functionalities (and dummy game)
