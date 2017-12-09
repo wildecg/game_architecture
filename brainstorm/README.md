@@ -1,6 +1,7 @@
 ## Links
 link | description
 ------|------------
+[Mental Poker](https://en.wikipedia.org/wiki/Mental_poker) | Wikipedia: how to play a game with no trusted third party
 [Virtue-poker](https://virtue.poker/) | distributed, sicure, p2p poker on ethereum |
 [Decentralized MMORPGs](https://www.reddit.com/r/btc/comments/4w8tfx/crazy_idea_a_decentralized_mmorpg_with_a/) | ideas on reddit
 [p2p games](https://gamedev.stackexchange.com/questions/67738/limitations-of-p2p-multiplayer-games-vs-client-server) | stackexchange: p2p games, pros and cons
